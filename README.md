@@ -42,8 +42,11 @@ I excel at identifying and mitigating security risks and vulnerabilities, demons
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
+    <p>As a dedicated professional with a background in Electrical/Electronics Engineering and a specialization in Computer Engineering, I have honed my skills in core cybersecurity principles. I am proficient in network security, penetration testing, and risk management, and have hands-on experience with essential cybersecurity tools and software.</p>
+<p>I excel at identifying and mitigating security risks and vulnerabilities, demonstrating excellent problem-solving abilities. My strong organizational and multitasking skills complement my solid understanding of IT infrastructure and protocols. Furthermore, I am an effective communicator, capable of guiding and mentoring interns to develop their cybersecurity expertise.</p>
+<p><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> Cisco Certified Ethical Hacking</p>
+
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
