@@ -7,7 +7,6 @@ I excel at identifying and mitigating security risks and vulnerabilities, demons
 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -19,7 +18,7 @@ I excel at identifying and mitigating security risks and vulnerabilities, demons
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
@@ -43,10 +42,7 @@ I excel at identifying and mitigating security risks and vulnerabilities, demons
 
 ## Certifications
 <div>
-    <p>As a dedicated professional with a background in Electrical/Electronics Engineering and a specialization in Computer Engineering, I have honed my skills in core cybersecurity principles. I am proficient in network security, penetration testing, and risk management, and have hands-on experience with essential cybersecurity tools and software.</p>
-<p>I excel at identifying and mitigating security risks and vulnerabilities, demonstrating excellent problem-solving abilities. My strong organizational and multitasking skills complement my solid understanding of IT infrastructure and protocols. Furthermore, I am an effective communicator, capable of guiding and mentoring interns to develop their cybersecurity expertise.</p>
-<p><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> Cisco Certified Ethical Hacking</p>
-
+<img src="https://img.shields.io/badge/-Cisco%20Certified%20Ethical%20Hacker-1E90FF?&style=for-the-badge&logo=Cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
